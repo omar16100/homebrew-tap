@@ -14,3 +14,7 @@ brew install batteryconsole
 | Formula | Description |
 |---------|-------------|
 | batteryconsole | CLI tool to check Logitech MX device battery levels on macOS |
+
+## License
+
+The formula files in this tap are MIT licensed, see [LICENSE](LICENSE). Each formula installs software under its own license.
